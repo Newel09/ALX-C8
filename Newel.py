@@ -4,5 +4,5 @@ for f in fruits:
     if f == "banana":
         continue   # skip printing banana
     if f == "date":
-        break      # stop the loop when we reach date
+        break      # stop the loop when we reach date me
     print(f)
